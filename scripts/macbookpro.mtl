@@ -1,0 +1,127 @@
+# generated for openmock: preserves material groups from the OBJ
+
+newmtl Material.002
+# keys
+Kd 0.16 0.16 0.18
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.003
+# aluminium shell
+Kd 0.78 0.78 0.80
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.004
+# key sides
+Kd 0.12 0.12 0.13
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.005
+# bezel
+Kd 0.05 0.05 0.06
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.006
+# lid detail
+Kd 0.20 0.20 0.22
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.007
+# bezel glass
+Kd 0.04 0.04 0.05
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.008
+# SCREEN
+Kd 0.02 0.02 0.02
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.009
+# key wells
+Kd 0.10 0.10 0.11
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.010
+# small part
+Kd 0.30 0.30 0.32
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.011
+# trackpad
+Kd 0.70 0.70 0.72
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.013
+# speaker grille
+Kd 0.35 0.35 0.37
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.014
+# hinge
+Kd 0.55 0.55 0.57
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.016
+# grille
+Kd 0.30 0.30 0.32
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
+
+newmtl Material.017
+# curve
+Kd 0.50 0.50 0.52
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ns 120
+d 1
+illum 2
